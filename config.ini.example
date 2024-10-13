@@ -1,0 +1,7 @@
+[Roboflow]
+API_KEY = your_api_key_here
+
+[Project]
+WORKSPACE = your_workspace_name
+PROJECT_NAME = your_project_name
+VERSION = 1
