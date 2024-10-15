@@ -1,0 +1,15 @@
+Python
+ultralytics
+roboflow
+opencv-python
+numpy
+torch
+torchvision
+matplotlib
+pillow
+pyyaml
+requests
+pandas
+seaborn
+ipython
+supervision
