@@ -60,4 +60,4 @@ This project uses YOLOv8 and Roboflow to train a model for tracking football pla
 
 - [YOLOv8](https://github.com/ultralytics/ultralytics) for the object detection model
 - [Roboflow](https://roboflow.com/) for dataset management and model deployment
-- [Piotr Skalski](https://github.com/SkalskiP) for tutorial on how to train a YOLOv8 model for football tracking
+- [Piotr Skalski](https://github.com/SkalskiP) inspiration for many methods in this project
